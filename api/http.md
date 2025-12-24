@@ -1,0 +1,1 @@
+methods, headers, caching, cookies vs. sessions vs. tokens

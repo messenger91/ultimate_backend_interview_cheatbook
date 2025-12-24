@@ -1,0 +1,1 @@
+basic info about db: sql, nosql, pg, mysql, mongo and etc.

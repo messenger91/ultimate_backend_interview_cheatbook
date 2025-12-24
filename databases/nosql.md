@@ -1,0 +1,1 @@
+Types (Document, Key-Value, Columnar, Graph), When to Use

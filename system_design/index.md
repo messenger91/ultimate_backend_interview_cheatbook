@@ -1,0 +1,1 @@
+Microservices vs. monolith: Pros/Cons, Communication (Sync/Async)

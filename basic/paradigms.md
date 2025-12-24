@@ -1,0 +1,1 @@
+OOP (inheritance, polymorphism, encapsulation), functional programming

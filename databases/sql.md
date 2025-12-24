@@ -1,0 +1,1 @@
+JOIN, indexes, transactions, ACID, normalization, query optimization
